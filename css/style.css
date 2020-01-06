@@ -415,10 +415,6 @@ img {
   background: #fec63e;
 }
 
-.js [data-slide-nav] > button:focus {
-  outline: 0;
-}
-
 .js [data-anime] {
   opacity: 0;
 }
